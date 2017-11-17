@@ -5,6 +5,7 @@ branches:
   only:
   - master
   - /^[0-9.]+-releases$/
+  - /^greenkeeper/.*$/
 
 matrix:
   include:
